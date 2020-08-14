@@ -61,10 +61,6 @@ Here are some ideas to get you started:
  🤝 Connect with me: 
  
  <a href="https://www.linkedin.com/in/mrdevashishsharma/"><img src="https://gp3.googleusercontent.com/rs4yxqGcOQBD43JjqIX8SB5rMojfLpdI2gTJn_1HtaKRyj8QFyzB1WH9f-CkBEvEkZRpPONZADLwsbhGOQk5ddEPb8upQdsmxxyJVEVAmn0KPVK4CPXgFe14fpIWn_Aw6b8NjFbc_Q=s48-p-k" style="margin-right : 5px"/></a>
- 
- <a href="https://twitter.com/MallickDebajit"><img src="https://gp3.googleusercontent.com/v_LdxBFUbEB6Jd7-4kTqWEepbGRnBEbmRnCL6cVjApJchGsKDE4frlchAlV389TMp3BsuGgMgu-e5ttHz7fzUbDqiNe5Jl1GhzwZRFla8O7trVP_N71bgD3XBTp4m0RC5noudt8Bwg=s48-p-k" style="margin-right : 5px"/></a>
- <a href="https://www.facebook.com/debajit.mallick.79"><img src="https://gp3.googleusercontent.com/4z2VXzS073q2P8awnhezZ1ojnDjJhfFVn0cKiQk8NAiN231lQ9J2PxgKwFeganSlG2WSsshXVovizTFt-KEkVDJ2XzFWNU4F32bVnX_hWJQqdQs8cngAgSVzlf8VJgSZFdGJ0CnVgQ=s48-p-k" style="margin-right : 5px"/></a>
- <a href="https://www.reddit.com/user/debajit13"><img src="https://gp3.googleusercontent.com/Gb6FxVQZmHwQ9bdtizfLNe15D5j_8ttRj4x-baArip-8FHTDNHEbox94qNhsxy-IhH6a4hSxZGRQnd8yAzgR_pkINTxPUvhxTUHS0JUUiyXtP21KxMuVsMhpQZDzGBo3JYuwc5J9Sw=s48-p-k" style="margin-right : 5px"/></a>
-
+<br>
 [![Debajit's github stats](https://github-readme-stats.vercel.app/api?username=devashish-sharma&show_icons=true&theme=algolia)](https://github.com/devashish-sharma?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devashish-sharma&show_icons=true&theme=algolia)](https://github.com/devashish-sharma?tab=repositories)
