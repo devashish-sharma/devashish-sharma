@@ -1,5 +1,5 @@
-### Hi there Devashish Sharma Here👋
-
+# Hi there Devashish Sharma here👋
+## I’m a **Trainee** at Nokia Solution and Networks.
 <!--
 **devashish-sharma/devashish-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p>Welcome to my GitHub profile :pray:</p>
 
- I’m a **Programmer** from Jodhpur Rajasthan India. Currently I am pursuing my final year MCA in *Computer Application* from Vellore Institute of Technology, Bhopal, India.
+  Currently I am pursuing my final year MCA in *Computer Application* from Vellore Institute of Technology, Bhopal, India.
   
 🌱 I am a *Full Stack Developer* | *Android Developer* | *Software Developer*.
 
