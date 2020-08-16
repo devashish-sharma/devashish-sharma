@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3xe7YGiXocntiK_vXbGlZsAhea5S69agoag&usqp=CAU" alt="cover image"/>
+<img src="https://geek-mexicain.net/files/archive/2015-04/nokia-logo-blue-geek-mexicain.png" alt="cover image"/>
 
 <p>Welcome to my GitHub profile :pray:</p>
 
